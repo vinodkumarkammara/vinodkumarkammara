@@ -6,3 +6,15 @@ D
 C
 C
 
+
+
+
+A  good too bye
+B
+C 
+B
+B
+
+A
+
+Adding new line in sample file 
