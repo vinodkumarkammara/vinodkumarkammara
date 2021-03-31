@@ -1,20 +1,4 @@
 Bthi this is the my 1st file to be created
-A
-A
-D
-D
-C
-C
-
-
-
-
+Today some changes in our file
 A  good too bye
-B
-C 
-B
-B
-
-A
-
 Adding new line in sample file 
